@@ -15,10 +15,10 @@ A privacy-focused context-aware AI communication system exploring:
 ## Technical Article
 
 Medium:
-(link)
+[Building a Context-Aware Emotional Intelligence Layer for Mobile Communication](https://medium.com/@app_32420/building-a-context-aware-emotional-intelligence-layer-for-mobile-communication-3914de10e528?sharedUserId=app_32420)
 
 Dev.to:
-(link)
+[Building a Context-Aware Emotional Intelligence Layer for Mobile Communication](https://dev.to/madan_thambisetty_/building-a-context-aware-emotional-intelligence-layer-for-mobile-communication-45ki)
 
 ## Stack
 
