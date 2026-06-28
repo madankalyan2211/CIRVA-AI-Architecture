@@ -10,7 +10,14 @@ A privacy-focused context-aware AI communication system exploring:
 
 ## Architecture
 
-![CIRVA Tiered AI Architecture Flow Diagram](assets/architecture-diagram.png)
+### System Architecture
+![CIRVA Tiered AI Architecture Flow Diagram](assets/architecture.png)
+
+### AI Inference & Fallback Pipeline
+![CIRVA AI Inference Flow Diagram](assets/ai-flow.png)
+
+### Mobile Application Core Interface
+![CIRVA Mobile Application Home Screen](assets/app-home.png)
 
 ## Technical Article
 
