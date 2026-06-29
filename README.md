@@ -27,6 +27,7 @@ A privacy-focused context-aware AI communication system exploring:
 * **Live Database Metrics Report**: [docs/metrics-report.md](docs/metrics-report.md)
 * **Version History & Releases Report**: [docs/releases.md](docs/releases.md)
 * **AI/Startup Programs Applications Pack**: [docs/startup-applications.md](docs/startup-applications.md)
+* **ONNX Runtime Edge NLP Example**: [onnx-edge-nlp-classification/](onnx-edge-nlp-classification/)
 
 ## Technical Article
 
