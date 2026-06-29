@@ -25,6 +25,7 @@ A privacy-focused context-aware AI communication system exploring:
 ## Live Telemetry Report
 
 * **Live Database Metrics Report**: [docs/metrics-report.md](docs/metrics-report.md)
+* **Version History & Releases Report**: [docs/releases.md](docs/releases.md)
 
 ## Technical Article
 
