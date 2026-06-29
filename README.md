@@ -35,6 +35,11 @@ Medium:
 Dev.to:
 [Building a Context-Aware Emotional Intelligence Layer for Mobile Communication](https://dev.to/madan_thambisetty_/building-a-context-aware-emotional-intelligence-layer-for-mobile-communication-45ki)
 
+## Recognition / Publications
+
+- Technical article: [Building a Context-Aware Emotional Intelligence Layer for Mobile Communication](https://dev.to/madan_thambisetty_/building-a-context-aware-emotional-intelligence-layer-for-mobile-communication-45ki)
+- Architecture documentation: [CIRVA AI Architecture Overview Docs](README.md)
+
 ## Stack
 
 AI:
