@@ -22,6 +22,10 @@ A privacy-focused context-aware AI communication system exploring:
 ### Telemetry & Analytics Dashboard
 ![CIRVA Telemetry and Performance Analytics Dashboard](assets/metrics-dashboard.png)
 
+## Live Telemetry Report
+
+* **Live Database Metrics Report**: [docs/metrics-report.md](docs/metrics-report.md)
+
 ## Technical Article
 
 Medium:
