@@ -36,3 +36,11 @@ To deliver fluid real-time context suggestions as a user types, the UI loop must
 * **React Native Bundle Size Overhead**: +4.2 MB
 * **Runtime RAM Overhead**: ~45 MB
 * **CPU Utilization (Peak during run)**: 4.8% on standard modern octa-core architectures.
+
+---
+
+## Telemetry and Analytics Dashboard
+
+The following dashboard displays anonymized telemetry metrics tracking active users, inference counts, system latency distribution, and feature use frequencies.
+
+![CIRVA Telemetry and Performance Analytics Dashboard](../assets/metrics-dashboard.png)

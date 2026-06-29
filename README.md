@@ -19,6 +19,9 @@ A privacy-focused context-aware AI communication system exploring:
 ### Mobile Application Core Interface
 ![CIRVA Mobile Application Home Screen](assets/app-home.png)
 
+### Telemetry & Analytics Dashboard
+![CIRVA Telemetry and Performance Analytics Dashboard](assets/metrics-dashboard.png)
+
 ## Technical Article
 
 Medium:
